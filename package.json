@@ -1,0 +1,17 @@
+{
+  "name": "turbo",
+  "version": "0.0.1",
+  "private": false,
+  "description": "Framework powering enterprise apps with excellent engineering",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo \"Development Started...\""
+  },
+  "keywords": [],
+  "author": {
+    "email": "work.jayantmalik@gmail.com",
+    "name": "Jayant Malik",
+    "url": "https://github.com/developbharat/turbo"
+  },
+  "license": "MIT"
+}
